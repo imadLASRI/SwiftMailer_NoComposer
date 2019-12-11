@@ -1,0 +1,1 @@
+Install Swift Mailer without using Composer (for no command line servers that cant install Composer)
